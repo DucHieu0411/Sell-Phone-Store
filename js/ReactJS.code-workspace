@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../VScode/ReactJS"
+		},
+		{
+			"path": "../../../VScode/ReactJS/React-webpack"
+		},
+		{
+			"path": "../../../VScode/ReactJS/ReactApp/tiktok"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ReactJS"
+	}
+}
